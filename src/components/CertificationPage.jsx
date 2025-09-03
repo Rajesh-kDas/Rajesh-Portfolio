@@ -6,28 +6,28 @@ const certifications = [
     title: "UI/UX Design",
     issuer: "SEEREE",
     year: "2025",
-    image: "/public/images/certificate1.png",
+    image: "/images/certificate1.png",
     description: "Covers HTML, CSS, JavaScript, and responsive web design principles."
   },
   {
     title: "Database Management",
     issuer: "SEEREE",
     year: "2025",
-    image: "/public/images/certificate2.png",
+    image: "/images/certificate2.png",
     description: "Covers SQl, MySQL,PlSQL, MongoDB, and Oracle databases."
   },
     {
     title: "Java Programming",
     issuer: "oneroadmap",
     year: "2025",
-    image: "/public/images/certificate2.png",
+    image: "/images/certificate2.png",
     description: "Java programming fundamentals, object-oriented programming, and core Java concepts."
   }
   ,  {
     title: "JavaScript Algorithms and Data Structures",
     issuer: "freeCodeCamp",
     year: "2023",
-    image: "/public/images/certificate2.png",
+    image: "/images/certificate2.png",
     description: "Focuses on JavaScript ES6, algorithms, and data structures."
   }
 
